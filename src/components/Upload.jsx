@@ -3,7 +3,7 @@ import { assets } from "../assets/assets";
 
 const Upload = () => {
   return (
-    <div className="mt-[2rem] md:mt-[5rem] mb-[5rem] mx-[1rem] md:mx-[4rem] lg:mx-[7rem]">
+    <div className="mt-[2rem] md:mt-[5rem] mx-[1rem] md:mx-[4rem] lg:mx-[7rem]">
       <p className="text-[1.2rem] md:text-[1.8rem] text-center font-bold bg-gradient-to-r from-[#242424] to-[#9B9B9B] bg-clip-text text-transparent">
         See the magic. Try now
       </p>
